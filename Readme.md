@@ -38,13 +38,15 @@
 #### **Databases**:
 
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
+
 
 <!-- <img height=25 src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp; -->
 
 #### **DevOps & Cloud Tools**:
 
 <img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=red">&nbsp;&nbsp;
 
 <!-- <img height=25 src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">&nbsp;&nbsp; -->
 
