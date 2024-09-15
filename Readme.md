@@ -34,6 +34,7 @@
 <img height=25 src="https://img.shields.io/badge/bootstrap-%23404d59.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/sass-%23404d59.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white">&nbsp;&nbsp;
 
 #### **Databases**:
 
@@ -46,6 +47,7 @@
 #### **DevOps & Cloud Tools**:
 
 <img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=red">&nbsp;&nbsp;
 
 <!-- <img height=25 src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">&nbsp;&nbsp; -->
