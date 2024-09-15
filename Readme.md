@@ -7,7 +7,7 @@
 
 #### About Me?
 
-- 🏫 I'm a passionate Software Engineer from India with 1.2 years of experience.
+- 🏫 I'm a passionate Software Engineer from India with 2 years of experience.
 - 🌱 I am 23 years old.
 - ⚡️My expertise primarily revolves around JavaScript, React, React Native, MERN, Web Development, NextJS
 - ♥️ I love to learn new technology
